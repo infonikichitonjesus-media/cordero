@@ -11,7 +11,8 @@ export async function getLibros() {
     const librosModules = [
         './data/libros/el-misterio.js',
         './data/libros/aventura-galactica.js',
-        './data/libros/poesias-del-alma.js'
+        './data/libros/poesias-del-alma.js',
+        './data/libros/no-os-dejare'
     ];
     
     const libros = [];
