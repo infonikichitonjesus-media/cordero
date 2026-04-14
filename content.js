@@ -12,7 +12,7 @@ export async function getLibros() {
         './data/libros/el-misterio.js',
         './data/libros/aventura-galactica.js',
         './data/libros/poesias-del-alma.js',
-        './data/libros/no-os-dejare'
+        './data/libros/no-os-dejare.js'
     ];
     
     const libros = [];
